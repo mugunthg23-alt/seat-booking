@@ -1,0 +1,6 @@
+{
+  "name": "SeatView - 3D Theater Seat Booking",
+  "description": "Book movie tickets with real-time 3D seat preview. See the exact screen view and sightlines from any seat before you pay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
